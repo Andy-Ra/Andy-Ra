@@ -1,7 +1,8 @@
 <body>
-  <h2><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">  Hi there I'm Andy Ramadhan from Indonesian</h2>
+  <h2><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">  Hello there !</h2>
 
   ### 👨🏻‍💻  About Me
+  - 💻 I'm Andy Ramadhan from Indonesian
   - 💡  I'm a Junior developer and study at STIKI MALANG University.
   - 🔭 I’m currently working on Myself
   - 🌱 I’m currently learning new things about programming or Everything
